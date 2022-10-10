@@ -1,1 +1,0 @@
-# Integers-with-digit-k
